@@ -1,0 +1,147 @@
+[
+    {
+        "name":"Sandisk Ultra 128GB DSXC UHS-I Memory Card",
+        "price":"45.89",
+        "description":"Ultra-fast cards (2) to take better pictures and Full HD video(1) with your compact to mid-range point-and-shoot camera and camcorders.With sandisk Memory card.",
+        "rating":"4.5",
+        "images":[{
+            "public_id":"products/tzfsnrli3szrdnb4jgge",
+            "url":"https://res.cloudinary.com/shopit/image/upload/v1606231282/products/tzfsnrli3szrdnb4jgge.jpg"
+        }],
+        "category":"Electronics",
+        "seller":"Ebay",
+        "stock":50,
+        "numOfReviews": 32,
+        "reviews":[]
+    },
+    {
+        "name":"CAN USB FD Adapter (GC-CAN-USB-FD)",
+        "price":"315.00",
+        "description":"Monitor a CAN network,write a CAN program and communicate with industrial,medical,automotive or other CAN based device.",
+        "ratings":1.65,
+        "images":[{
+            "public_id":"products/12bd3hhy8dds1cxstuuz",
+            "url":"https://res.cloudinary.com/shopit/image/upload/v1606231282/products/12bd3hhy8dds1cxstuuz.jpg"
+        }],
+        "category":"Electronics",
+        "seller":"Amazon",
+        "stock":0,
+        "numOfReviews":2,
+        "review":[]
+    },
+    {
+        "name":"CHARMOUNT Full Motion  TV Mount Swivel",
+        "price":"31.67",
+        "description":"CHARMOUNT TV is a Universal Design-Has your TV recieved?",
+        "ratings":3.65,
+        "images":[{
+            "public_id":"products/chairmount_nuubea",
+            "url":"https://res.cloudinary.com/shopit/image/upload/v1606231282/products/chairmount_nuubea.jpg"
+        }],
+        "category":"Electronics",
+        "seller":"Amazon",
+        "stock":1,
+        "numOfReviews":12,
+        "review":[]
+    },
+    {
+        "name":"Bose QuietComfort 35 II Wireless Bluetooth headphones",
+        "price":"299.00",
+        "description":"What happen when you clear away from the noisy dstributios of the world?",
+        "ratings":4.5,
+        "images":[{
+            "public_id":"products/headphones_t2afnb",
+            "url":"https://res.cloudinary.com/shopit/image/upload/v1606231282/products/headphones_t2afnb.jpg"
+        }],
+        "category":"Headphones",
+        "seller":"Amazon",
+        "stock":11,
+        "numOfReviews":112,
+        "review":[]
+    },
+    {
+        "name":"Apple AirPods with charging case (Wired)",
+        "price":"129.00",
+        "description":"Airpods with charging case: More than 24 hours listening time,up to 18 hours talk time.",
+        "ratings":4.8,
+        "images":[{
+            "public_id":"products/airpords_e5cqqr",
+            "url":"https://res.cloudinary.com/shopit/image/upload/v1606231282/products/airpords_e5cqqr.jpg"
+        }],
+        "category":"Electronics",
+        "seller":"Amazon",
+        "stock":112,
+        "numOfReviews":1242,
+        "review":[]
+    },
+    {
+        "name":"Cable Boom Microphone - Volume Control for Playstation PS5 or Xbox",
+        "price":"27.99",
+        "description":"DESIGN INFO-3.5mm male to 2.5mm male audio cable adaptor with Upgraded Flexible Design",
+        "ratings":4.1,
+        "images":[{
+            "public_id":"products/eahhtj1bkn1k9gjgd3hn",
+            "url":"https://res.cloudinary.com/shopit/image/upload/v1606231282/products/eahhtj1bkn1k9gjgd3hn.jpg"
+        }],
+        "category":"Accessories",
+        "seller":"Amazon",
+        "stock":1132,
+        "numOfReviews":42,
+        "review":[]
+    },
+    {
+        "name":"NIKON D3500 W/ AF-P DX NIKKOR 18-55mm f/3.5-5.66 VR Black",
+        "price":"496.96",
+        "description":"You don't need to be a photographer to know a  great photo when you are one.",
+        "ratings":4.7,
+        "images":[{
+            "public_id":"products/camera_ridc0i",
+            "url":"https://res.cloudinary.com/shopit/image/upload/v1606231282/products/camera_ridc0i.jpg"
+        }],
+        "category":"Cameras",
+        "seller":"Amazon",
+        "stock":113,
+        "numOfReviews":442,
+        "review":[]
+    },
+    {
+        "name":"Apple Macbook Air (13-inch,8GB RAM,256GB storage)-Space Gray",
+        "price":"949.99",
+        "description":"Stunning 13.3-inch Retina display with True technology,Backlit Magic keyboard and Touch ID,Tenth-generation.",
+        "ratings":4.9,
+        "images":[{
+            "public_id":"products/macbook_o2cj2k",
+            "url":"https://res.cloudinary.com/shopit/image/upload/v1606231282/products/macbook_o2cj2k.jpg"
+        }],
+        "category":"Laptops",
+        "seller":"Amazon",
+        "stock":8,
+        "numOfReviews":442,
+        "review":[]
+    },
+    {
+        "name":"Kauffman Orchards Homegrown McIntosh Apples",
+        "price":"4.96",
+        "description":"McIntosh is a pretty red/green apple with white flesh Homegrown in Kauffman's Orchards.",
+        "ratings":5,
+        "images":[
+            {
+            "public_id":"products/wmoa49q9e70ze9xtcra2",
+            "url":"https://res.cloudinary.com/shopit/image/upload/v1606231282/products/wmoa49q9e70ze9xtcra2.jpg"
+        },
+        {
+            "public_id":"products/i0k1wdwi5hrpmzwxvsds",
+            "url":"https://res.cloudinary.com/shopit/image/upload/v1606231282/products/i0k1wdwi5hrpmzwxvsds.jpg"
+        },
+        {
+            "public_id":"products/bshmuo9qisfhz4azvnsd",
+            "url":"https://res.cloudinary.com/shopit/image/upload/v1606231282/products/bshmuo9qisfhz4azvnsd.jpg"
+        }
+    ],
+        "category":"Food",
+        "seller":"Kauffman's Fruit Farm & Market",
+        "stock":500,
+        "numOfReviews":2,
+        "review":[]
+    }
+]
